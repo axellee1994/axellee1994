@@ -14,7 +14,11 @@
 </p>
 
 ## 👨‍💻 Professional Summary
-Self Taught Software developer with a unique background in architecture, bringing strong problem-solving skills and attention to detail to software development. Specializing in C/C++ programming with experience in building complex systems like 3D graphics engines and Unix shell implementations. Currently advancing skills in modern web technologies while studying at 42 Singapore and ZeroToMastery.
+Self Taught Software developer with a unique background in architecture, bringing strong problem-solving skills and attention to detail to software development. Specializing in C/C++ programming with experience in building complex systems like 3D graphics engines and Unix shell implementations. Currently advancing skills in modern web technologies while balancing full-time studies.
+
+## 🎓 Education & Certifications
+- 📚 Student at 42 Singapore - Core Program
+- 🌐 Zero To Mastery Academy - Web Development
 
 ## 🎯 Professional Focus
 - 🔭 Specializing in systems programming and graphics development with C/C++
@@ -65,3 +69,14 @@ Self Taught Software developer with a unique background in architecture, bringin
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+## 💻 Technical Proficiencies
+### Languages
+![C](https://img.shields.io/badge/C-Expert-fe8019?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-Advanced-98971a?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-458588?style=for-the-badge&logo=javascript)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-Advanced-d65d0e?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-Advanced-007ACC?style=for-the-badge&logo=visual-studio-code)
+
