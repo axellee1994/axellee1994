@@ -16,8 +16,8 @@
 Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
 ## 🎯 Current Focus
-- 🌱 I'm currently learning [specific technologies/frameworks]
-- 👯 I'm looking to collaborate on [types of projects]
+- 🌱 I'm currently learning [C++, Networking]
+- 👯 I'm looking to collaborate on [Full-Stack Development, Networking and AI/ML]
 - 💬 Ask me about [your areas of expertise]
 
 ## 🚀 Featured Projects
