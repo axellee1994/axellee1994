@@ -23,12 +23,12 @@ Self Taught Software developer with a unique background in architecture, bringin
 - 🎯 Working towards full-stack development proficiency
 
 ## 💼 Key Projects
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; width: 100%; max-width: 800px; margin: 0 auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 400px); gap: 1rem; justify-content: center;">
   <a href="https://github.com/axellee1994/cub3D">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox&show_owner=true&description=A%203D%20graphics%20project%20inspired%20by%20Wolfenstein%203D,%20built%20using%20raycasting%20techniques" />
+    <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox&show_owner=true&description=A%203D%20graphics%20project%20inspired%20by%20Wolfenstein%203D,%20built%20using%20raycasting%20techniques" />
   </a>
   <a href="https://github.com/axellee1994/minishell">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox&show_owner=true&description=A%20simplified%20bash%20shell%20implementation%20with%20core%20Unix%20shell%20functionalities" />
+    <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox&show_owner=true&description=A%20simplified%20bash%20shell%20implementation%20with%20core%20Unix%20shell%20functionalities" />
   </a>
 </div>
 
