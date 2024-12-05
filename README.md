@@ -16,13 +16,13 @@
 Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
 ## 🎯 Current Focus
-- 🌱 I'm currently learning [specific technologies/frameworks]
-- 👯 I'm looking to collaborate on [types of projects]
-- 💬 Ask me about [your areas of expertise]
+- 🎯 Improving my C++ skills through algorithmic challenges
+- 🌱 Learning advanced JavaScript concepts
+- 🚀 Building a personal portfolio website
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/axellee1994/cub3D">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox&show_description=true" />
   </a>
@@ -32,7 +32,7 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 </div>
 
 ## 🧰 Languages and Tools
-<div align="center">
+<div align="left">
   <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -45,7 +45,7 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=axellee1994&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </div>
 
@@ -57,9 +57,5 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
   <!-- Add other social media badges as needed -->
 </div>
 
----
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=axellee1994.axellee1994" alt="visitor badge" />
-</div>
-
-![Snake animation](https://github.com/axellee1994/axellee1994/blob/output/github-contribution-grid-snake.svg)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=axellee1994&theme=gruvbox&column=4)](https://github.com/ryo-ma/github-profile-trophy)
