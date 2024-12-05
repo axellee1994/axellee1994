@@ -27,3 +27,16 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 <br />
 
 #
+
+### 📊 Stats
+
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axellee1994&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Axel's Coding Journey</h3></summary>
+   Transitioning from architecture to web development taught me the value of growth through exploration. Coding projects involve a structured process, starting with pseudocoding, moving through design and implementation, and often reverse-engineering existing solutions to deeply understand coding principles.
+-->
