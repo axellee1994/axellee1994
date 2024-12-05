@@ -1,4 +1,4 @@
-# 🏄‍♂️ Axel Lee
+# 🧗 Axel Lee
 
 **`Digital Craftsman (Self-Taught Webdeveloper/ Student @ZTM && @42Singapore)`**
 
