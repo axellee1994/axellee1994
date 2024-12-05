@@ -4,6 +4,10 @@
 
 Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=axellee1994&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
    <p align="left">
       <a href="https://github.com/axellee1994?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/axellee1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -40,3 +44,5 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
  <summary><h3>👨‍💻 Axel's Coding Journey</h3></summary>
    Transitioning from architecture to web development taught me the value of growth through exploration. Coding projects involve a structured process, starting with pseudocoding, moving through design and implementation, and often reverse-engineering existing solutions to deeply understand coding principles.
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=axellee1994.axellee1994)
