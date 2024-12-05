@@ -31,35 +31,6 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
   </a>
 </div>
 
-<details>
-  <summary> *cub3D* - 3D Graphics Project</summary>
-  
-  A 3D graphics project inspired by Wolfenstein 3D, built using raycasting techniques.
-  
-  **Key Features:**
-  - 3D perspective rendering using raycasting
-  - Textured walls with directional colors
-  - Player movement and rotation
-  - Minimap display
-  - Floor and ceiling rendering
-  - Built with C and MinilibX library
-</details>
-
-<details>
-  <summary> *minishell* - Shell Implementation</summary>
-  
-  A simplified bash shell implementation with core Unix shell functionalities.
-  
-  **Key Features:**
-  - Command execution and history
-  - Built-in commands (cd, echo, pwd, etc.)
-  - Input/Output redirections
-  - Pipe handling
-  - Environment variable management
-  - Signal handling (ctrl-C, ctrl-D, ctrl-\)
-  - Built with C
-</details>
-
 ## 🧰 Languages and Tools
 <div align="center">
   <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
