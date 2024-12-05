@@ -21,7 +21,7 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 - 💬 Ask me about [your areas of expertise]
 
 ## 🚀 Featured Projects
-<a href="[project-url]">
+<a href="https://github.com/axellee1994/cub3D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=[repo-name]&theme=gruvbox" />
 </a>
 
