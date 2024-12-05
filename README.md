@@ -16,18 +16,18 @@
 Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
 ## 🎯 Current Focus
-- 🌱 I'm currently learning [C++, Networking]
-- 👯 I'm looking to collaborate on [Full-Stack Development, Networking and AI/ML]
+- 🌱 I'm currently learning [specific technologies/frameworks]
+- 👯 I'm looking to collaborate on [types of projects]
 - 💬 Ask me about [your areas of expertise]
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/axellee1994/cub3D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox&show_description=true" />
   </a>
   <a href="https://github.com/axellee1994/minishell">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox&show_description=true" />
   </a>
 </div>
 
