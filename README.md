@@ -51,7 +51,7 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 
 ## 🤝 Connect with Me
 <div align="left">
-  <a href="[your-linkedin-url]">
+  <a href="https://www.linkedin.com/in/axellee/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Add other social media badges as needed -->
