@@ -3,12 +3,12 @@
 **`Digital Craftsman (Self-Taught Webdeveloper/ Student @ZTM && @42Singapore)`**
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=axellee1994&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+   <img height="28" src="https://komarev.com/ghpvc/?username=axellee1994&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
    <a href="https://github.com/axellee1994?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/axellee1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img height="28" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/axellee1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/axellee1994?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/axellee1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img height="28" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/axellee1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 </p>
 
