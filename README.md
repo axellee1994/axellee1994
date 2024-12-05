@@ -47,7 +47,6 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axellee1994&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=axellee1994&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect with Me
