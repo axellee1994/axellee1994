@@ -1,72 +1,42 @@
-# 🧗 Axel Lee
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /> I'm Axel Lee
 
-**`Software Developer | C/C++ Specialist | Web Development Enthusiast`**
+## 👨‍💻 Self-Taught Software Developer
 
-<!-- Clean, professional badges in one line -->
-<p align="left">
-   <img height="28" src="https://komarev.com/ghpvc/?username=axellee1994&label=Profile%20Views&color=fe8019&style=for-the-badge" alt="profile views" />
-   <a href="https://github.com/axellee1994?tab=followers">
-      <img height="28" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/axellee1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/axellee1994?tab=repositories&sort=stargazers">
-      <img height="28" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/axellee1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
-</p>
+Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
-## 👨‍💻 Professional Summary
-Self Taught Software developer with a unique background in architecture, bringing strong problem-solving skills and attention to detail to software development. Specializing in C/C++ programming with experience in building complex systems like 3D graphics engines and Unix shell implementations. Currently advancing skills in modern web technologies while balancing full-time studies.
+## 🌟 Quick Facts
 
-## 🎓 Education & Certifications
+- 🌍 Based in Singapore
 - 📚 Student at 42 Singapore - Core Program
 - 🌐 Zero To Mastery Academy - Web Development
-
-## 🎯 Professional Focus
-- 🔭 Specializing in systems programming and graphics development with C/C++
-- 🌱 Expanding expertise in modern JavaScript and web development
+- ✉️ Reach me at [axellee1994@gmail.com](mailto:axellee1994@gmail.com)
 - 👯 Open to collaboration on innovative open-source projects
 - 🎯 Working towards full-stack development proficiency
+- ⚡ Fun fact: Improved my full marathon time from 6:55 to 4:11 in 1 year
 
-## 💼 Key Projects
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 400px); gap: 1rem; justify-content: center;">
-  <a href="https://github.com/axellee1994/cub3D">
-    <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox&show_owner=true&description=A%203D%20graphics%20project%20inspired%20by%20Wolfenstein%203D,%20built%20using%20raycasting%20techniques" />
-  </a>
-  <a href="https://github.com/axellee1994/minishell">
-    <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox&show_owner=true&description=A%20simplified%20bash%20shell%20implementation%20with%20core%20Unix%20shell%20functionalities" />
-  </a>
-</div>
+## 💻 Skills
 
-## 🛠 Technical Skills
-<div align="left">
-  <!-- Grouped by category -->
-  <!-- Systems Programming -->
-  <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  
-  <!-- Web Development -->
-  <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
-  <!-- Tools & Version Control -->
-  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
-## 📊 Development Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axellee1994&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=axellee1994&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" />
-</div>
+### Socials<p align="left"> <a href="https://www.github.com/axellee1994" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/axellee1994" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## 🤝 Professional Network
-<div align="left">
-  <a href="https://www.linkedin.com/in/axellee/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:axellee1994@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/axellee1994"><img src="https://github-readme-stats.vercel.app/api?username=axellee1994&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="axellee1994's GitHub stats" /></a>
+
+<a href="http://www.github.com/axellee1994"><img src="https://github-readme-streak-stats.herokuapp.com/?user=axellee1994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/axellee1994"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=axellee1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
