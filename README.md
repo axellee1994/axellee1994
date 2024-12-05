@@ -24,10 +24,10 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 
 <div align="center">
   <a href="https://github.com/axellee1994/cub3D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox&show_owner=true&description=A%203D%20graphics%20project%20inspired%20by%20Wolfenstein%203D,%20built%20using%20raycasting%20techniques" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox" />
   </a>
   <a href="https://github.com/axellee1994/minishell">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox&show_owner=true&description=A%20simplified%20bash%20shell%20implementation%20with%20core%20Unix%20shell%20functionalities" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox" />
   </a>
 </div>
 
