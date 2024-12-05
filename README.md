@@ -21,9 +21,44 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 - 💬 Ask me about [your areas of expertise]
 
 ## 🚀 Featured Projects
-<a href="https://github.com/axellee1994/cub3D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=[repo-name]&theme=gruvbox" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/axellee1994/cub3D">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=cub3D&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/axellee1994/minishell">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axellee1994&repo=minishell&theme=gruvbox" />
+  </a>
+</div>
+
+<details>
+  <summary> *cub3D* - 3D Graphics Project</summary>
+  
+  A 3D graphics project inspired by Wolfenstein 3D, built using raycasting techniques.
+  
+  **Key Features:**
+  - 3D perspective rendering using raycasting
+  - Textured walls with directional colors
+  - Player movement and rotation
+  - Minimap display
+  - Floor and ceiling rendering
+  - Built with C and MinilibX library
+</details>
+
+<details>
+  <summary> *minishell* - Shell Implementation</summary>
+  
+  A simplified bash shell implementation with core Unix shell functionalities.
+  
+  **Key Features:**
+  - Command execution and history
+  - Built-in commands (cd, echo, pwd, etc.)
+  - Input/Output redirections
+  - Pipe handling
+  - Environment variable management
+  - Signal handling (ctrl-C, ctrl-D, ctrl-\)
+  - Built with C
+</details>
 
 ## 🧰 Languages and Tools
 <div align="center">
