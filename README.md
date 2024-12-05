@@ -14,6 +14,9 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 - 🎯 Working towards full-stack development proficiency
 - ⚡ Fun fact: Improved my full marathon time from 6:55 to 4:11 in 1 year
 
+<a href="https://www.github.com/axellee1994" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/axellee1994?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ## 💻 Skills
 
 <p align="left">
