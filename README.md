@@ -51,7 +51,7 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 
 ## 🤝 Connect with Me
 <div align="left">
-  <a href="https://www.linkedin.com/in/axellee/">
+  <a href="[your-linkedin-url]">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Add other social media badges as needed -->
@@ -61,3 +61,5 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=axellee1994.axellee1994" alt="visitor badge" />
 </div>
+
+![Snake animation](https://github.com/axellee1994/axellee1994/blob/output/github-contribution-grid-snake.svg)
