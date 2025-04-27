@@ -7,8 +7,8 @@ Growth often requires stepping into the unknown, and I experienced this firsthan
 ## 🌟 Quick Facts
 
 - 🌍 Based in Singapore
-- 📚 Student at 42 Singapore - Core Program
-- 🌐 Zero To Mastery Academy - Web Development
+- 📚 Student at 42 Singapore - Advanced SPecialization
+- 🌐 Zero To Mastery Academy - Web Development / Python Developer
 - 📝 I write articles at https://medium.com/@axellee1994
 - ✉️ Reach me at [axellee1994@gmail.com](mailto:axellee1994@gmail.com)
 - 👯 Open to collaboration on innovative open-source projects
