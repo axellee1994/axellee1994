@@ -1,14 +1,14 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /> I'm Axel Lee
 
-## 👨‍💻 Self-Taught Software Developer
+## 👨‍💻 Self-Taught Data Scientist
 
 Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
 ## 🌟 Quick Facts
 
 - 🌍 Based in Singapore
-- 📚 Student at 42 Singapore - Advanced SPecialization
-- 🌐 Zero To Mastery Academy - Web Development / Python Developer
+- 📚 Student at 42 Singapore - Advanced Specialization
+- 🌐 Zero To Mastery Academy - Data Science / Python Developer
 - 📝 I write articles at https://medium.com/@axellee1994
 - ✉️ Reach me at [axellee1994@gmail.com](mailto:axellee1994@gmail.com)
 - 👯 Open to collaboration on innovative open-source projects
