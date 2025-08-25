@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Self-Taught Data Scientist
 
-Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to web development. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
+Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to softwre engineering/data science. Each coding project follows a structured process, beginning with pseudocoding, advancing to design and implementation, and often involving reverse-engineering existing products to gain a comprehensive understanding of coding principles and practices.
 
 ## 🌟 Quick Facts
 
