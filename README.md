@@ -1,6 +1,4 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /> I'm Axel Lee
-
-## 👨‍💻 Data Analyst/Scientist | Former Architectural Designer
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /> I'm Axel Lee a Data Analyst/Scientist | Former Architectural Designer
 
 Growth often requires stepping into the unknown, and I experienced this firsthand when transitioning from architecture to software engineering and data science. Each project follows a structured process — starting with pseudocode, moving through design and implementation, and often reverse-engineering existing products to understand the principles behind them.
 
