@@ -31,15 +31,8 @@ Full write-ups and screenshots are on [axlee.dev](https://www.axlee.dev).
 | **AED-CFR synthetic dataset** | Simulates 10 years of Singapore cardiac arrests so Cornell and Purdue can use realistic data without real patient records. | 23,948 simulated patients. Call counts match the real registry within 10% in all 42 weekly blocks. |
 | **Penang ambulance deployment** | Cleans 45,444 dispatch records in SQL, then adds a Streamlit dashboard and a coverage model for placing 15 ambulances. | Modelled urgent-call coverage rises from 37.6% to 53.4%. Not yet validated. |
 | **ED attendance forecasting** | SARIMAX forecast of 7-day inpatient admissions across 9 Singapore hospitals. | 2.25% MAPE on the holdout week (down from 3.76%), 5.86% across 609 rolling tests. |
-| **MOHT frailty scoping review** | Extracts findings from 172 research papers with a NotebookLM schema, then cleans the inconsistent labels with regex. | 20 minutes per paper insteadof 2.5 hours. My charts and tables went into the final MOHT presentation and two papers under review. |
-| **Updating the Utstein survival curve** | Rebuilds an undocumented AED-placement analysis from 28,229 cardiac-arrest records under a stricter international standard. | Found missingshock-time records that make recent survival trends unreliable. The team kept the original figures. |
-| **AI data health management** | Benchmarks 6 local LLMs (1B to 3.8B parameters) on querying sensitive cardiac-arrest data on an 8GB laptop. | The best scored 20%, so we recommended secure government AI tools instead. |
 
-### Case study
-
-| Project | What it does | Result |
-|:--|:--|:--|
-| **HR workforce review** | Cleans a 500-officer HR file, tests exit rates by division, and delivers a 3-slide brief plus a Streamlit dashboard. | Digital Division loses 9.1% of staffagainst 1.9% elsewhere (p = 0.0036). |
+Also: MOHT frailty scoping review, Utstein survival curve update, AI data health management and an HR workforce case study. See [axlee.dev](https://www.axlee.dev).
 
 ### Personal projects
 
@@ -74,32 +67,3 @@ Full write-ups and screenshots are on [axlee.dev](https://www.axlee.dev).
 | **BI and visualisation** | Tableau, Power BI, Plotly, Streamlit |
 | **Libraries** | pandas, NumPy, scikit-learn, statsmodels, PyTorch, Keras, FastAPI |
 | **Tools** | Git, Docker, Linux, GitHub Actions, TypeScript, React, Node.js |
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36"height="36" alt="Vim" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
-
-## Contact
-
-Open to data analyst, data scientist and operations roles from January 2027, and to open-source collaboration.
-
-- Email: [axellee1994@gmail.com](mailto:axellee1994@gmail.com)
-- LinkedIn: [linkedin.com/in/axellee](https://www.linkedin.com/in/axellee)
-- Writing: [medium.com/@axellee1994](https://medium.com/@axellee1994)
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/axellee1994"><img src="https://github-readme-streak-stats.herokuapp.com/?user=axellee1994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="axellee1994's GitHub streak stats" /></a>
